@@ -1,3 +1,3 @@
 # ridex
-Car ental system 
+Car rental system 
 Using Html , Css, Javascript
